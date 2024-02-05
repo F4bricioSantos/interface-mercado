@@ -1,0 +1,1 @@
+Interface simple de mercado.
